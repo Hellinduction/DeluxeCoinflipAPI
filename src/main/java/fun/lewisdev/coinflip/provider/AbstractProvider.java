@@ -9,6 +9,7 @@ public abstract class AbstractProvider {
 
     public AbstractProvider(String identifier) {
         this.identifier = identifier;
+        this.name = identifier;
     }
 
     public abstract double getBalance(OfflinePlayer player);
@@ -21,11 +22,11 @@ public abstract class AbstractProvider {
         return identifier;
     }
 
-    public void setName(String name) {
+    public void setCurrencyDisplayName(String name) {
         this.name = name;
     }
 
-    public String getName() {
+    public String getDisplayName() {
         return name;
     }
 }
