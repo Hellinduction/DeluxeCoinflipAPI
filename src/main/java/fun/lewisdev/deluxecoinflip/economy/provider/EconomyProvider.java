@@ -1,13 +1,13 @@
-package fun.lewisdev.coinflip.provider;
+package fun.lewisdev.deluxecoinflip.economy.provider;
 
 import org.bukkit.OfflinePlayer;
 
-public abstract class AbstractProvider {
+public abstract class EconomyProvider {
 
-    private String identifier;
+    private final String identifier;
     private String name;
 
-    public AbstractProvider(String identifier) {
+    public EconomyProvider(String identifier) {
         this.identifier = identifier;
         this.name = identifier;
     }

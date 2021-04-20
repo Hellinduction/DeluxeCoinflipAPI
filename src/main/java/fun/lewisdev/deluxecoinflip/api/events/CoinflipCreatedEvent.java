@@ -1,6 +1,6 @@
-package fun.lewisdev.coinflip.events;
+package fun.lewisdev.deluxecoinflip.api.events;
 
-import fun.lewisdev.coinflip.game.CoinflipGame;
+import fun.lewisdev.deluxecoinflip.game.CoinflipGame;
 import org.bukkit.entity.Player;
 import org.bukkit.event.Event;
 import org.bukkit.event.HandlerList;

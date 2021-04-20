@@ -1,9 +1,15 @@
-package fun.lewisdev.coinflip.game;
+package fun.lewisdev.deluxecoinflip.game;
 
 import org.bukkit.OfflinePlayer;
 import org.bukkit.inventory.ItemStack;
 
+import java.util.UUID;
+
 public class CoinflipGame {
+
+    public UUID getPlayerUUID() {
+        return null;
+    }
 
     public long getAmount() {
         return 0;
