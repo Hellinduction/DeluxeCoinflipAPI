@@ -12,6 +12,8 @@ public abstract class EconomyProvider {
         this.name = identifier;
     }
 
+    public abstract void onEnable();
+
     public abstract double getBalance(OfflinePlayer player);
 
     public abstract void withdraw(OfflinePlayer player, double amount);
