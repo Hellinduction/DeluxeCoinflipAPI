@@ -1,5 +1,5 @@
 # DeluxeCoinflip API
-This repository provides a stripped version of [DeluxeCoinflip](https://www.mc-market.org/resources/10475/) for use of developers.
+This repository provides a stripped version of [DeluxeCoinflip](https://www.spigotmc.org/resources/79965/) for use of developers.
 
 ## Installation
 
