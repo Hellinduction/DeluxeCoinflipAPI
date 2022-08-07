@@ -15,7 +15,7 @@ This repository provides a stripped version of [DeluxeCoinflip](https://www.mc-m
 <dependency>
     <groupId>com.github.ItsLewizzz</groupId>
     <artifactId>DeluxeCoinflipAPI</artifactId>
-    <version>Tag</version>
+    <version>{VERSION}</version>
 </dependency>
 ```
 
