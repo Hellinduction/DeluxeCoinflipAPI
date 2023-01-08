@@ -1,4 +1,4 @@
-package fun.lewisdev.deluxecoinflip.economy.provider.api.events;
+package fun.lewisdev.deluxecoinflip.api.events;
 
 import fun.lewisdev.deluxecoinflip.game.CoinflipGame;
 import org.bukkit.entity.Player;
