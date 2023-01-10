@@ -1,4 +1,4 @@
-package fun.lewisdev.deluxecoinflip.economy.provider.api;
+package fun.lewisdev.deluxecoinflip.api;
 
 import fun.lewisdev.deluxecoinflip.storage.PlayerData;
 import fun.lewisdev.deluxecoinflip.economy.provider.EconomyProvider;
