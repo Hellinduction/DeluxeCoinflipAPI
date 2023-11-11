@@ -1,6 +1,6 @@
-package fun.lewisdev.deluxecoinflip.api.events;
+package net.zithium.deluxecoinflip.api.events;
 
-import fun.lewisdev.deluxecoinflip.game.CoinflipGame;
+import net.zithium.deluxecoinflip.game.CoinflipGame;
 import org.bukkit.entity.Player;
 import org.bukkit.event.Cancellable;
 import org.bukkit.event.Event;

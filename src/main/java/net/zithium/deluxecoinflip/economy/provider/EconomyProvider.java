@@ -1,4 +1,4 @@
-package fun.lewisdev.deluxecoinflip.economy.provider;
+package net.zithium.deluxecoinflip.economy.provider;
 
 import org.bukkit.OfflinePlayer;
 

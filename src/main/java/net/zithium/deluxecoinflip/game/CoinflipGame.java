@@ -1,4 +1,4 @@
-package fun.lewisdev.deluxecoinflip.game;
+package net.zithium.deluxecoinflip.game;
 
 import org.bukkit.OfflinePlayer;
 import org.bukkit.inventory.ItemStack;

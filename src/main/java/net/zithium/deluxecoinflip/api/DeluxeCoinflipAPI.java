@@ -1,7 +1,7 @@
-package fun.lewisdev.deluxecoinflip.api;
+package net.zithium.deluxecoinflip.api;
 
-import fun.lewisdev.deluxecoinflip.storage.PlayerData;
-import fun.lewisdev.deluxecoinflip.economy.provider.EconomyProvider;
+import net.zithium.deluxecoinflip.storage.PlayerData;
+import net.zithium.deluxecoinflip.economy.provider.EconomyProvider;
 import org.bukkit.entity.Player;
 
 import java.util.Optional;

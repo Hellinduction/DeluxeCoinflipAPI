@@ -1,4 +1,4 @@
-package fun.lewisdev.deluxecoinflip.storage;
+package net.zithium.deluxecoinflip.storage;
 
 import java.util.UUID;
 
