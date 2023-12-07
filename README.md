@@ -4,7 +4,7 @@ This repository provides a stripped version of [DeluxeCoinflip](https://www.spig
 ## Installation
 
 ### Maven
-[![](https://jitpack.io/v/ItsLewizzz/DeluxeCoinflipAPI.svg)](https://jitpack.io/#ItsLewizzz/DeluxeCoinflipAPI)
+[![](https://jitpack.io/v/ItzSave/DeluxeCoinflipAPI.svg)](https://jitpack.io/#ItzSave/DeluxeCoinflipAPI)
 ```bash
 <repository>
     <id>jitpack.io</id>
@@ -13,7 +13,7 @@ This repository provides a stripped version of [DeluxeCoinflip](https://www.spig
 ```
 ```bash
 <dependency>
-    <groupId>com.github.ItsLewizzz</groupId>
+    <groupId>com.github.ItzSave</groupId>
     <artifactId>DeluxeCoinflipAPI</artifactId>
     <version>{VERSION}</version>
 </dependency>
